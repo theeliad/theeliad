@@ -2,7 +2,7 @@
 
 
 
-## 🔧 Favorite Technologies & Tools
+## 🔧 Technologies & Tools
 
 **Operating System**<br>
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
