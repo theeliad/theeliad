@@ -23,6 +23,8 @@
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=black&color=F05032)
 ![](https://img.shields.io/badge/-Pycharm?style=flat&logo=Pycharm&logoColor=black&color=20b2aa)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/-Spyder-informational?style=flat&logo=Spyderide&logoColor=red&color=fefffe)
+
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
