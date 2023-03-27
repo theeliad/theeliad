@@ -16,8 +16,8 @@
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 <br>
 **Hosting**<br>
-![](https://img.shields.io/badge/-Streamlit_Cloud-informational?style=flat&logo=streamlit&logoColor=red&color=000000)
 ![](https://img.shields.io/badge/-Github_Pages-informational?style=flat&logo=github&logoColor=white&color=222222)
+![](https://img.shields.io/badge/-Streamlit_Cloud-informational?style=flat&logo=streamlit&logoColor=red&color=000000)
 <br>
 **Software and Tools**<br>
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=black&color=F05032)
