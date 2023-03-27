@@ -20,8 +20,8 @@
 ![](https://img.shields.io/badge/-Github_Pages-informational?style=flat&logo=github&logoColor=white&color=222222)
 <br>
 **Software and Tools**<br>
-![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/-Pycharm?style=flat&logo=Pycharm&logoColor=white&color=ffff9f)
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=black&color=F05032)
+![](https://img.shields.io/badge/-Pycharm?style=flat&logo=Pycharm&logoColor=white&color=20b2aa)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 
 <p align="left"> 
