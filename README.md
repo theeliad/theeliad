@@ -9,7 +9,7 @@
  
 <a href="https://github.com/theeliad/Geospatial-Watches-and-Warnings-App">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theeliad&repo=Geospatial-Watches-and-Warnings&show_icons=true" alt="theeliad" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theeliad&repo=Geospatial-Watches-and-Warnings-App&show_icons=true" alt="theeliad" />
 </a>
 
 ## 🔧 Technologies & Tools
