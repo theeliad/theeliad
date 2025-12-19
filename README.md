@@ -7,7 +7,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theeliad&repo=Geospatial_Weather_App&show_icons=true" alt="theeliad" />
 </a>
  
-<a href="https://github.com/theeliad/Geospatial-Watches-and-Warnings-App.git">
+<a href="https://github.com/theeliad/Geospatial-Watches-and-Warnings-App">
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theeliad&repo=Geospatial-Watches-and-Warnings&show_icons=true" alt="theeliad" />
 </a>
